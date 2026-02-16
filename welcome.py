@@ -4,4 +4,4 @@ age = input("Enter your age: ")
 
 print("\nHello",name)
 print("\nYou are ",age, "years old")
-print("Nice to meet you ")
+print("Hello world! ")
